@@ -96,6 +96,9 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        Levels have to be considered at least around Beginner Tier difficulty to be added
+                    </p>
+                    <p>
                         Achieved the record without using hacks
                     </p>
                     <p>
@@ -105,10 +108,10 @@ export default {
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
+                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The recording must also fully show the end screen of the level
                     </p>
                     <p>
                         Do not use secret routes or bug routes
@@ -117,7 +120,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we will not accept records for it anymore.
+                        Once a level falls onto the Legacy List, we will not accept records for it anymore
                     </p>
                 </div>
             </div>
