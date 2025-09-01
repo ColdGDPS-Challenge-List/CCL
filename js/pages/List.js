@@ -96,7 +96,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Levels have to be considered at least around Beginner Tier difficulty to be added
+                        Levels have to be considered at least around Beginner Tier difficulty and under 30 seconds to be added
                     </p>
                     <p>
                         Achieved the record without using hacks
