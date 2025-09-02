@@ -1,0 +1,17 @@
+{
+    "id": 42,
+    "name": "Cold Will Pass",
+    "author": "jayxofc",
+    "creators": [],
+    "verifier": "jayxofc",
+    "verification": "https://www.youtube.com/watch?v=bD1_4c3BMEU",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Kyy",
+            "link": "https://youtu.be/1X5-cGLz20I",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
