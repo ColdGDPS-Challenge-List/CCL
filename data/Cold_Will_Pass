@@ -5,11 +5,11 @@
     "creators": [],
     "verifier": "jayxofc",
     "verification": "https://www.youtube.com/watch?v=bD1_4c3BMEU",
-    "percentToQualify": 100,
+    "percentToQualify": "100",
     "records": [
         {
             "user": "Kyy",
-            "link": "https://youtu.be/1X5-cGLz20I",
+            "link": "https://www.youtube.com/watch?v=1X5-cGLz20I",
             "percent": 100,
             "hz": 240
         }
