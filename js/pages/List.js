@@ -99,6 +99,9 @@ export default {
                         Levels have to be considered at least around Beginner Tier difficulty and under 30 seconds to be added
                     </p>
                     <p>
+                        Levels with assets/parts used from other levels will need permission from the original creator/s in order to be added
+                    </p>
+                    <p>
                         Achieved the record without using hacks
                     </p>
                     <p>
