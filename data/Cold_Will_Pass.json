@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=1X5-cGLz20I",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Boofer",
+            "link": "https://www.youtube.com/watch?v=3aC3V1FFriA",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
