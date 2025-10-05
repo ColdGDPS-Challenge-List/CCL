@@ -5,13 +5,8 @@
         "link": "https://www.youtube.com/@kyylicious"
     },
     {
-        "role": "owner",
+        "role": "admin",
         "name": "Cold",
         "link": "https://www.youtube.com/@LColdGD"
-    },
-    {
-        "role": "admin",
-        "name": "Boofer",
-        "link": "https://www.youtube.com/@Boofer."
     }
 ]
